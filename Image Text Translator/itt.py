@@ -1,3 +1,5 @@
+# Alpha 0.01 - Image Text Translator
+
 from PIL import Image
 from pytesseract import pytesseract
 from deep_translator import GoogleTranslator
